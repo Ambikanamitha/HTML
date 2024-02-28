@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .section h1 {
+            text-align:left;
+            text-emphasis-color: white;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            margin-bottom: 10px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <h1>Ambika T</h1>
+        </div>
+        
+        <div class="section">
+            <p>Email: ambikaat.xworkz@gmail.com</p>
+            <p>Phone:8217673982</p>
+            <p>Address:near arakeramma temple kakkaragolla</p>
+        </div>
+        <div class="section">
+            <h2>Summary</h2>
+            <p>Experienced web developer with expertise in HTML, CSS, and JavaScript. Proven track record of delivering high-quality web applications.</p>
+        </div>
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <h4>web technologies</h4>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Bootstrap</li>
+            </ul>
+            <h4>Pogramming languages</h4>
+            <ul>
+                <li>Core java</li>
+                <li>JEE</li>
+                <li>Python</li>
+                <li>C</li>
+                
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Education</h2>
+            <h4>University BDT College of Engineering Davangere</h4>
+            <h4>Master of Computer Applications(MCA)
+            </h4>
+            <p>Graduated: Oct 2023</p>
+        </div>
+        <div class="section">
+            <h2>Projects</h2>
+            <h4>Art Hansdcraft Application</h4>
+        </div>
+    </div>
+</body>
+</html>
